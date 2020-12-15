@@ -10,7 +10,7 @@ software packages, available on GitHub as indicated:
 2. NISTBartender, Windows GUI interface for dual barcode parsing and automating calls to bartender-1.1
 		GitHub repository: https://github.com/djross22/NISTBartender
 	
-3. engineering-bio-lacI-landscape, bioinformatic pipeline for processing logn-read PacBio sequencing data
+3. engineering-bio-lacI-landscape, bioinformatic pipeline for processing long-read PacBio sequencing data
 		GitHub repository: https://github.com/nate-d-olson/engineering-bio-lacI-landscape
 	
 4. gsf_ims_fitness, Python package and Jupyter notebooks used for analysis of sequencing data after bartender-1.1, NISTBartender, and engineering-bio-lacI-landscape
